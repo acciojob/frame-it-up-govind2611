@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+ #iframeContainer {
+            width: 800px;
+            height: 600px;
+            border: 1px solid #ccc;
+        }
+
+        #myIframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
